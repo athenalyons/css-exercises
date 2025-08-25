@@ -1,0 +1,19 @@
+.background_pink {
+    background-color: #ee87a6;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serfif';
+}
+
+#unique-identity {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.separate-odd {
+    font-size: 24px;
+}
+
+#completely-unique {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
